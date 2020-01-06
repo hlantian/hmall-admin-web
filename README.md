@@ -1,1 +1,1 @@
-# hmall-admin-web
+# mall-admin-web
